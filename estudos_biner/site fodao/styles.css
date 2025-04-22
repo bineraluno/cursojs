@@ -1,0 +1,16 @@
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    color:rgb(134, 175, 53);
+    text-shadow: 0 0 2em black;
+}
+
+.botao {
+    transition: font-size 1.0s ease;
+    
+}
+
+.botao:hover {
+    font-size: 1.2em;
+    color: #000;
+}
